@@ -5,6 +5,8 @@
 
 里面的天气的信息获取和显示，widget小部件，地区选择可供参考
 
+
+下载后 Eclipse可以直接导入
  
 
 
@@ -19,7 +21,7 @@
 License
 =======
 
-    Copyright 2012 Jake Wharton
+    Copyright 2012 Wedcel
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
